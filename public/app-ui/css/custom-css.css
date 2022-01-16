@@ -1,0 +1,8 @@
+.iconImg {
+    max-width:50px;
+}
+.h80-auto {
+    height:68vh;
+    overflow-x: hidden;
+    overflow-y:auto;
+}

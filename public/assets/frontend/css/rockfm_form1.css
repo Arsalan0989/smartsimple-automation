@@ -1,0 +1,39 @@
+ #rockfm_form_1 #rockfm_uibao029je8 .rockfm-txtbox-inp-val {
+  font-size: 14px;
+  color: #000;
+  text-align: left;
+  background: #ffffff;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+}
+#rockfm_form_1 #rockfm_uibao029je8 .rockfm-label {
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  color: #000;
+  font-family: 'Comic Sans MS', Arial, sans-serif;
+}
+#rockfm_form_1 #rockfm_uibao029je8 .rockfm-sublabel {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  color: #000;
+  font-family: 'Comic Sans MS', Arial, sans-serif;
+}
+#rockfm_form_1 #rockfm_uibao029je8 .rockfm-control-label {
+  text-align: left;
+}
+#rockfm_form_1 .popover_uibao029je8 {
+  background: #ffffff !important;
+  color: #000000;
+}
+#rockfm_form_1 .popover_uibao029je8 .popover-arrow:after,
+#rockfm_form_1 .popover_uibao029je8 .arrow:after {
+  border-top-color: #ffffff !important;
+}
+#rockfm_form_1 #rockfm_uibao029je8 {
+  padding: 0px 0px 0px 0px;
+  margin: 5px 0px 5px 0px;
+}
+ #rockfm_form_1 .uiform-main-form{  background:#ffffff;    box-shadow: 3px 3px 10px #CCCCCC;   padding: 20px 17px 20px 17px; }  
